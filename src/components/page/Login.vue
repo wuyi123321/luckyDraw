@@ -13,7 +13,7 @@
                 <el-form-item>
                     <el-radio-group v-model="ruleForm.danxuan">
                        <el-radio label="活动界面" ></el-radio>
-                       <el-radio   label="后台界面"></el-radio>
+                       <el-radio   label="后界面"></el-radio>
                     </el-radio-group>
                 </el-form-item>
 
